@@ -1,0 +1,2 @@
+To run the project, enter the project folder using Terminal and execute: python manage.py runserver
+To create a new app: python manage.py startapp APP
